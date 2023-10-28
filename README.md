@@ -8,9 +8,8 @@
 
 # Programming logistics
 1. loop for each worksheet (by year)
-2. loop for each ticker
-3. loop for each market date and search the yearly start date and end date until both found
-3. output each ticker's yearly info at the right hand side on the same worksheet
+2. loop for each row for market date and search constant start date and end date until both found
+3. output the ticker's yearly info at the right hand side on the same worksheet
 4. compare each ticker's yearly data to get the greatest % increase, decrease and total stock volume 
 5. output the greatest info by year on the right hand side of tickers' yearly info
 
